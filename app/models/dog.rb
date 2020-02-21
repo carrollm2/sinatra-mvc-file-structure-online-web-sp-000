@@ -7,4 +7,5 @@ class Dog < ApplicationController
     @breed = breed
     @age = age
   end
+
 end
